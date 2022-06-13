@@ -1,5 +1,6 @@
-# Git Example
+# Git and Markdown Workshop
 
-This is some text.
+## Workshop attendees
 
-More text.
+- Wytamma Wirth 
+
