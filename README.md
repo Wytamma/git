@@ -3,4 +3,4 @@
 ## Workshop attendees
 
 - Wytamma Wirth 
-
+- Pedro Nogueira
